@@ -1,0 +1,16 @@
+.micro-link {
+	color: #333;
+	text-decoration: none;
+	outline: none;
+	opacity: .75;
+	font-weight: 500;
+	padding-bottom: .14rem;
+	border-bottom: 2px solid rgba(0,0,0,0.1);
+	letter-spacing: .01em;
+	font-size: .9rem;
+	cursor: pointer;
+
+}
+.micro-link:hover {
+	border-bottom: 2px solid rgba(0,0,0,0.4);
+}

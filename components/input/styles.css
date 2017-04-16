@@ -1,0 +1,14 @@
+.micro-input {
+  padding: 10px 15px;
+  font-size: 1.2em;
+  outline: none;
+  border: 2px solid rgba(0,0,0,.05);
+  outline: 0;
+  color: #444;
+  border-radius: 4px;
+  transition: .085s all ease-in;
+}
+
+.micro-input:focus {
+  border: 2px solid rgba(0,0,0,.2);
+}
